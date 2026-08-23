@@ -5,20 +5,10 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:New England Off-Road Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Maine Winter Romp
-DTSTART:20260212T170000
-DTEND:20260216T090000
-DTSTAMP:20260822T115603Z
-UID:bd543eac74a098f91307907e43cc1e@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/maine-winter-romp-2026
-URL:https://www.massroversociety.com/events/maine-winter-romp-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Events start in Feb w/ Mult dates & locations during 2026
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:5e0458e8518b2bf430d34e34865a9f@new-england-offroad
 DESCRIPTION:Source: Addicted to Jeeps\nhttps://addictedtojeeps.com/events
 URL:https://addictedtojeeps.com/events
@@ -27,37 +17,16 @@ BEGIN:VEVENT
 SUMMARY:Tickets go on sale March 15\, 2026.
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:5889f78ed323954e7c67a3e8b2b9b6@new-england-offroad
 DESCRIPTION:Source: Addicted to Jeeps\nhttps://addictedtojeeps.com/events
 URL:https://addictedtojeeps.com/events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rovers at the Farm
-DTSTART:20260321T093000
-DTEND:20260321T103000
-DTSTAMP:20260822T115603Z
-UID:ae6c0668184b34b4acbc768073500b@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/rovers-at-the-farm-2026
-LOCATION:30 AM Becket\, MA
-URL:https://www.massroversociety.com/events/rovers-at-the-farm-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANARC Stewards Training
-DTSTART:20260415T110000
-DTEND:20260419T120000
-DTSTAMP:20260822T115603Z
-UID:2ce0468c48d7d65d8cc648397f81fc@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/anarc-stewards-training-2026
-URL:https://www.massroversociety.com/events/anarc-stewards-training-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Green Ride
 DTSTART:20260426T083000
 DTEND:20260426T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:c21380a5725dc0cad95dc9867f5b60@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -70,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Green Ride
 DTSTART:20260509T083000
 DTEND:20260509T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:0ab59e2dd78650439c0709ad5f043c@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -80,75 +49,22 @@ URL:https://mainlineoverland.com/products/mlo-new-england-2026-trail-ride-
  series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vermont Rover Club Weenie Roast
-DTSTART:20260515T220000
-DTEND:20260517T230000
-DTSTAMP:20260822T115603Z
-UID:23fa483d7f5bffb18397bd21cc28b5@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/vt-weenie-roast-2026
-URL:https://www.massroversociety.com/events/vt-weenie-roast-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The 19th Annual Go Topless Day will be on Saturday May 16\, 2026. 
  Looks like there are at least 9 events on this Saturday around New England
  !
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:7171d3653743544fd010dd0ed706cf@new-england-offroad
 DESCRIPTION:Source: Addicted to Jeeps\nhttps://addictedtojeeps.com/events
 LOCATION:Field & Forest Recreation Area\, Harrisville\, NH
 URL:https://addictedtojeeps.com/events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MARS Club Recovery Clinic
-DTSTART:20260524T090000
-DTEND:20260524T160000
-DTSTAMP:20260822T115603Z
-UID:b752f62e40aac99acbd8da53d76107@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/mars-club-recovery-clinic
-LOCATION:00 PM Holliston\, MA
-URL:https://www.massroversociety.com/events/mars-club-recovery-clinic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bean Pot Rally Prep Weekend
-DTSTART:20260530T133000
-DTEND:20260531T153000
-DTSTAMP:20260822T115603Z
-UID:58833fc62207144dd39ff3d93463ff@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/bean-pot-rally-prep-weekend
-LOCATION:30 PM Unity\, ME
-URL:https://www.massroversociety.com/events/bean-pot-rally-prep-weekend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:British by Sea
-DTSTART:20260607T100000
-DTEND:20260607T160000
-DTSTAMP:20260822T115603Z
-UID:9eb387a365176b4c075817b5e68a65@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/british-by-the-sea-2026
-URL:https://www.massroversociety.com/events/british-by-the-sea-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bean Pot Rally
-DTSTART:20260612T100000
-DTEND:20260614T110000
-DTSTAMP:20260822T115603Z
-UID:9e596976abd338c0d134154842a084@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/bean-pot-rally-2026
-LOCATION:00 AM Benton\, ME USA
-URL:https://www.massroversociety.com/events/bean-pot-rally-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Blue Ride
 DTSTART:20260620T083000
 DTEND:20260620T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:804f40b48959190db3831b0b78018a@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -160,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Blue Ride
 DTSTART:20260711T083000
 DTEND:20260711T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:a34c2ce5d706f69c63ab209231ed51@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -173,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Green Ride
 DTSTART:20260712T083000
 DTEND:20260712T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:6b513f5456b7161f609d0e282c8c9c@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -183,30 +99,10 @@ URL:https://mainlineoverland.com/products/mlo-new-england-2026-trail-ride-
  series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Land Rover National Rally
-DTSTART:20260727T110000
-DTEND:20260731T120000
-DTSTAMP:20260822T115603Z
-UID:3a3cb61d7516ba15132f2dbe8403ce@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/land-rover-national-rally-2026
-URL:https://www.massroversociety.com/events/land-rover-national-rally-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maine Misfits and Rover Bits
-DTSTART:20260814T203000
-DTEND:20260816T213000
-DTSTAMP:20260822T115603Z
-UID:850fbd0eedc3a6167c528841b7dc58@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/maine-misfits-2026
-URL:https://www.massroversociety.com/events/maine-misfits-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Blue Ride
 DTSTART:20260822T083000
 DTEND:20260822T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:0924736e02d95ac84b342b802deafb@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -215,30 +111,10 @@ URL:https://mainlineoverland.com/products/mlo-new-england-2026-trail-ride-
  series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:British Invasion
-DTSTART:20260918T203000
-DTEND:20260920T213000
-DTSTAMP:20260822T115603Z
-UID:49eff7cfdbe254bcf89f50f1c0dc2b@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/british-invasion-stowe-2026
-URL:https://www.massroversociety.com/events/british-invasion-stowe-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metal Dash
-DTSTART:20260925T210000
-DTEND:20260927T220000
-DTSTAMP:20260822T115603Z
-UID:daa27b66d497e04d61da5885102add@new-england-offroad
-DESCRIPTION:Source: Massachusetts Rover Society\nhttps://www.massroversoci
- ety.com/events/metal-dash-2026
-URL:https://www.massroversociety.com/events/metal-dash-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Blue Ride
 DTSTART:20260926T083000
 DTEND:20260926T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:3990d4f357787f7825679ea9bcbfaf@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -251,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Green Ride
 DTSTART:20260927T083000
 DTEND:20260927T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:1546e84f7794f08c5934cd47ae71bd@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -264,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Green Ride
 DTSTART:20261025T083000
 DTEND:20261025T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:c27caf7557cf3cdb31799dfa5fad6e@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -277,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Blue Ride
 DTSTART:20261121T083000
 DTEND:20261121T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:ccdfad6ad7bcc7266a0b35e521c1ea@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
@@ -289,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:MLO New England Trail Ride - Blue/Black Ride
 DTSTART:20261205T083000
 DTEND:20261205T170000
-DTSTAMP:20260822T115603Z
+DTSTAMP:20260823T115907Z
 UID:ae3f2fbe2eaaa54a7daa3cbde91a63@new-england-offroad
 DESCRIPTION:Main Line Overland New England Trail Ride Series with Ridgebac
  k Guide Service.\n\nSource: Main Line Overland\nhttps://mainlineoverland.c
