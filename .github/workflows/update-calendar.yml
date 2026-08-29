@@ -26,8 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate calendar
+      - name: Generate New England off-road calendar
         run: python generate_calendar.py
+
+      - name: Add Northeast Bronco Nation events
+        run: python add_northeast_bronco.py
 
       - name: Commit updated calendar
         run: |
